@@ -1,0 +1,15 @@
+{
+  "name": "uaspwd_2025_24100016",
+  "version": "1.0.0",
+  "description": "1. (5 POIN) Fork repository dan beri nama UAS*PWD_2025*(NIM)\r 2. (10 POIN) Tambahkan file foto untuk ketiga guru yang ada (foto bebas yang penting sopan).\r 3. (30 POIN) Buatlah database dan table yang sesuai untuk menyimpan data kontak GuruLes.id\r 4. (50 POIN) Buatlah file server.js untuk menghandle submit form penyewaan agar data dapat disimpan pada database yang telah dibuat.\r 5. (5 POIN) push semua pekerjaan Anda ke repository UAS*PWD_2025*(NIM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
